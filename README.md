@@ -41,7 +41,7 @@ except Exception as e:
     ![img 1](asset/raise_etc.png)
     * *
 
-## code dan output program pengabaian exception dengan contoh
+## code dan output program pengabaian exception
 ````shell
 nilai = []
 
